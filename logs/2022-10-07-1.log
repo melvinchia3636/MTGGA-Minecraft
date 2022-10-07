@@ -1,0 +1,43 @@
+[05:07:04] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:07:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[05:07:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[05:07:04] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[05:07:04] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[05:07:04] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[05:07:04] [main/INFO]: Reloading ResourceManager: Default
+[05:07:04] [Worker-Main-12/INFO]: Loaded 7 recipes
+[05:07:05] [Worker-Main-12/INFO]: Loaded 1137 advancements
+[05:07:06] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[05:07:06] [Server thread/INFO]: Loading properties
+[05:07:06] [Server thread/INFO]: Default game type: SURVIVAL
+[05:07:06] [Server thread/INFO]: Generating keypair
+[05:07:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:07:06] [Server thread/INFO]: Using default channel type
+[05:07:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:07:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:07:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:07:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:07:06] [Server thread/INFO]: Preparing level "world"
+[05:07:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:07:06] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[05:07:06] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[05:07:09] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[05:07:09] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[05:07:09] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[05:07:09] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[05:07:09] [Worker-Main-14/INFO]: Preparing spawn area: 3%
+[05:07:09] [Worker-Main-10/INFO]: Preparing spawn area: 82%
+[05:07:11] [Server thread/INFO]: Time elapsed: 5401 ms
+[05:07:11] [Server thread/INFO]: Done (5.464s)! For help, type "help"
+[05:07:18] [Server thread/INFO]: Seed: [1832750111628112129]
+[05:09:46] [Server thread/INFO]: redaxe3636[/127.0.0.1:49702] logged in with entity id 283 at (32.5265632305907, 67.0, -8.838719963938402)
+[05:09:46] [Server thread/INFO]: redaxe3636 joined the game
+[05:10:50] [Server thread/INFO]: redaxe3636 has made the advancement [Sweet Dreams]
+[05:21:19] [Server thread/INFO]: Set the time to 1000
+[05:24:12] [Server thread/INFO]: redaxe3636 lost connection: Disconnected
+[05:24:12] [Server thread/INFO]: redaxe3636 left the game
+[05:25:20] [Server thread/INFO]: redaxe3636[/127.0.0.1:49777] logged in with entity id 2733 at (37.828146077234045, 66.0, -16.518113774006856)
+[05:25:20] [Server thread/INFO]: redaxe3636 joined the game
+[05:26:41] [Server thread/INFO]: redaxe3636 has made the advancement [A Seedy Place]
+[05:41:36] [Server thread/INFO]: redaxe3636 lost connection: Disconnected
+[05:41:36] [Server thread/INFO]: redaxe3636 left the game
