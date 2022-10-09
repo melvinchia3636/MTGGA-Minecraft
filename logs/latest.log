@@ -1,95 +1,55 @@
-[16:37:49] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16:37:51] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:37:51] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:37:51] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:37:51] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:37:51] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:37:51] [Worker-Main-9/INFO]: Loaded 7 recipes
-[16:37:52] [Worker-Main-9/INFO]: Loaded 1141 advancements
-[16:37:53] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[16:37:53] [Server thread/INFO]: Loading properties
-[16:37:53] [Server thread/INFO]: Default game type: SURVIVAL
-[16:37:53] [Server thread/INFO]: Generating keypair
-[16:37:53] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:37:53] [Server thread/INFO]: Using default channel type
-[16:37:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:37:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:37:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:37:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:37:53] [Server thread/INFO]: Preparing level "world"
-[16:37:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:38:04] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[16:38:04] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[16:38:04] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[16:38:04] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[16:38:04] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[16:38:04] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[16:38:04] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[16:38:04] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[16:38:04] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[16:38:04] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[16:38:04] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[16:38:04] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[16:38:04] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[16:38:04] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[16:38:04] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[16:38:04] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[16:38:04] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[16:38:04] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[16:38:04] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[16:38:04] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[16:38:04] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[16:38:04] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[16:38:04] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[16:38:05] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[16:38:05] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[16:38:06] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[16:38:06] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[16:38:07] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[16:38:07] [Worker-Main-13/INFO]: Preparing spawn area: 1%
-[16:38:08] [Worker-Main-13/INFO]: Preparing spawn area: 1%
-[16:38:08] [Worker-Main-14/INFO]: Preparing spawn area: 1%
-[16:38:09] [Worker-Main-10/INFO]: Preparing spawn area: 2%
-[16:38:09] [Worker-Main-10/INFO]: Preparing spawn area: 3%
-[16:38:10] [Worker-Main-9/INFO]: Preparing spawn area: 4%
-[16:38:10] [Worker-Main-10/INFO]: Preparing spawn area: 5%
-[16:38:11] [Worker-Main-14/INFO]: Preparing spawn area: 6%
-[16:38:11] [Worker-Main-11/INFO]: Preparing spawn area: 6%
-[16:38:12] [Worker-Main-10/INFO]: Preparing spawn area: 8%
-[16:38:12] [Worker-Main-8/INFO]: Preparing spawn area: 8%
-[16:38:13] [Worker-Main-10/INFO]: Preparing spawn area: 9%
-[16:38:13] [Worker-Main-9/INFO]: Preparing spawn area: 9%
-[16:38:14] [Worker-Main-9/INFO]: Preparing spawn area: 10%
-[16:38:14] [Worker-Main-12/INFO]: Preparing spawn area: 10%
-[16:38:15] [Worker-Main-9/INFO]: Preparing spawn area: 10%
-[16:38:15] [Worker-Main-8/INFO]: Preparing spawn area: 11%
-[16:38:16] [Worker-Main-8/INFO]: Preparing spawn area: 12%
-[16:38:16] [Worker-Main-8/INFO]: Preparing spawn area: 13%
-[16:38:17] [Worker-Main-13/INFO]: Preparing spawn area: 14%
-[16:38:17] [Worker-Main-9/INFO]: Preparing spawn area: 14%
-[16:38:18] [Worker-Main-12/INFO]: Preparing spawn area: 14%
-[16:38:18] [Worker-Main-8/INFO]: Preparing spawn area: 14%
-[16:38:19] [Worker-Main-14/INFO]: Preparing spawn area: 14%
-[16:38:19] [Worker-Main-14/INFO]: Preparing spawn area: 16%
-[16:38:20] [Worker-Main-9/INFO]: Preparing spawn area: 18%
-[16:38:20] [Worker-Main-11/INFO]: Preparing spawn area: 25%
-[16:38:21] [Worker-Main-12/INFO]: Preparing spawn area: 30%
-[16:38:21] [Worker-Main-9/INFO]: Preparing spawn area: 32%
-[16:38:22] [Worker-Main-12/INFO]: Preparing spawn area: 35%
-[16:38:22] [Worker-Main-12/INFO]: Preparing spawn area: 41%
-[16:38:23] [Worker-Main-9/INFO]: Preparing spawn area: 48%
-[16:38:23] [Worker-Main-9/INFO]: Preparing spawn area: 52%
-[16:38:24] [Worker-Main-10/INFO]: Preparing spawn area: 52%
-[16:38:24] [Worker-Main-13/INFO]: Preparing spawn area: 64%
-[16:38:25] [Worker-Main-9/INFO]: Preparing spawn area: 71%
-[16:38:25] [Worker-Main-9/INFO]: Preparing spawn area: 74%
-[16:38:26] [Worker-Main-13/INFO]: Preparing spawn area: 80%
-[16:38:26] [Worker-Main-11/INFO]: Preparing spawn area: 85%
-[16:38:27] [Worker-Main-8/INFO]: Preparing spawn area: 89%
-[16:38:27] [Worker-Main-13/INFO]: Preparing spawn area: 97%
-[16:38:27] [Server thread/INFO]: Time elapsed: 34155 ms
-[16:38:27] [Server thread/INFO]: Done (34.252s)! For help, type "help"
-[16:42:52] [Server thread/INFO]: redaxe3636[/127.0.0.1:50227] logged in with entity id 272 at (37.65500191955202, 67.0, -17.571289260326395)
-[16:42:52] [Server thread/INFO]: redaxe3636 joined the game
-[16:43:11] [Server thread/INFO]: redaxe3636 lost connection: Disconnected
-[16:43:11] [Server thread/INFO]: redaxe3636 left the game
+[09:22:48] [Server thread/INFO]: INETDataSurvey8Y[/163.172.139.143:44156] logged in with entity id 28531 at (117.5, 64.0, -79.5)
+[09:22:48] [Server thread/INFO]: INETDataSurvey8Y joined the game
+[09:22:48] [Server thread/INFO]: INETDataSurvey8Y lost connection: Disconnected
+[09:22:48] [Server thread/INFO]: INETDataSurvey8Y left the game
+[10:21:29] [Server thread/INFO]: AaronYX[/115.135.33.51:36906] logged in with entity id 28576 at (45.058098819553315, 67.0, -27.948748269007016)
+[10:21:29] [Server thread/INFO]: AaronYX joined the game
+[12:53:55] [Server thread/INFO]: AaronYX lost connection: Disconnected
+[12:53:55] [Server thread/INFO]: AaronYX left the game
+[13:06:06] [Server thread/INFO]: redaxe3636[/192.168.1.3:54595] logged in with entity id 47886 at (40.56019312722919, 66.0, -16.641338454359904)
+[13:06:06] [Server thread/INFO]: redaxe3636 joined the game
+[13:08:13] [Server thread/INFO]: Incorrect argument for command
+[13:08:13] [Server thread/INFO]: gamemode redaxe3636 3<--[HERE]
+[13:08:18] [Server thread/INFO]: Incorrect argument for command
+[13:08:18] [Server thread/INFO]: /gamemode 3<--[HERE]
+[13:08:37] [Server thread/INFO]: Incorrect argument for command
+[13:08:37] [Server thread/INFO]: /gamemode @redaxe3636 3<--[HERE]
+[13:08:45] [Server thread/INFO]: Incorrect argument for command
+[13:08:45] [Server thread/INFO]: gamemode @p spectator<--[HERE]
+[13:08:51] [Server thread/INFO]: Incorrect argument for command
+[13:08:51] [Server thread/INFO]: /gamemode @p spectator<--[HERE]
+[13:09:38] [Server thread/INFO]: Set redaxe3636's game mode to Spectator Mode
+[13:10:48] [Server thread/INFO]: Set redaxe3636's game mode to Survival Mode
+[13:10:51] [Server thread/INFO]: redaxe3636 lost connection: Disconnected
+[13:10:51] [Server thread/INFO]: redaxe3636 left the game
+[14:18:10] [Server thread/INFO]: LIMING08[/147.158.237.224:60106] logged in with entity id 48467 at (33.542709060519115, 69.0, -26.999677558553255)
+[14:18:10] [Server thread/INFO]: LIMING08 joined the game
+[14:19:55] [Server thread/INFO]: LIMING08 lost connection: Timed out
+[14:19:55] [Server thread/INFO]: LIMING08 left the game
+[14:20:09] [Server thread/INFO]: LIMING08[/147.158.237.224:60117] logged in with entity id 48918 at (19.83043793294023, 66.0, 41.79280663795952)
+[14:20:09] [Server thread/INFO]: LIMING08 joined the game
+[14:23:54] [Server thread/INFO]: <LIMING08> =)
+[14:25:38] [Server thread/INFO]: redaxe3636[/192.168.1.3:54983] logged in with entity id 50027 at (55.515404442360484, 65.0, 1.2617521371673617)
+[14:25:38] [Server thread/INFO]: redaxe3636 joined the game
+[14:25:54] [Server thread/INFO]: <redaxe3636> heyyyy
+[14:28:03] [Server thread/INFO]: LIMING08 lost connection: Disconnected
+[14:28:03] [Server thread/INFO]: LIMING08 left the game
+[14:29:50] [Server thread/INFO]: LIMING08[/147.158.237.224:57607] logged in with entity id 50695 at (36.688032930823624, 46.0, 11.197812313167216)
+[14:29:50] [Server thread/INFO]: LIMING08 joined the game
+[14:30:46] [Server thread/INFO]: LIMING08 lost connection: Disconnected
+[14:30:46] [Server thread/INFO]: LIMING08 left the game
+[14:30:53] [Server thread/INFO]: LIMING08[/147.158.237.224:57627] logged in with entity id 50995 at (33.40229900217068, 65.0, 27.30000001192093)
+[14:30:53] [Server thread/INFO]: LIMING08 joined the game
+[14:34:43] [Server thread/INFO]: redaxe3636 lost connection: Disconnected
+[14:34:43] [Server thread/INFO]: redaxe3636 left the game
+[14:34:46] [Server thread/INFO]: <LIMING08> ?
+[14:49:51] [Server thread/INFO]: LIMING08 lost connection: Disconnected
+[14:49:51] [Server thread/INFO]: LIMING08 left the game
+[15:31:26] [Server thread/INFO]: axiong[/60.50.88.86:35881] logged in with entity id 55509 at (-618.9953327412604, 66.0, 523.6999999880791)
+[15:31:26] [Server thread/INFO]: axiong joined the game
+[15:32:14] [Server thread/INFO]: axiong lost connection: Disconnected
+[15:32:14] [Server thread/INFO]: axiong left the game
+[16:28:01] [Server thread/INFO]: AaronYX[/115.135.33.51:36910] logged in with entity id 55948 at (42.20348878947353, 65.0, 18.296460390237854)
+[16:28:01] [Server thread/INFO]: AaronYX joined the game
+[16:35:13] [Server thread/INFO]: AaronYX lost connection: Disconnected
+[16:35:13] [Server thread/INFO]: AaronYX left the game
